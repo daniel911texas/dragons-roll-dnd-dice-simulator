@@ -24,7 +24,7 @@ Dragon's Roll is an easy-to-use Python program that simulates rolling a twenty-s
 
 ## Contributing
 
-If you'd like to contribute to this project, please follow the [Python Community Code of Conduct](https://www.python.org/psf/codeofconduct/) and submit a pull request with your changes.
+If you'd like to contribute to this project, please follow the [Python Community Code of Conduct](https://www.python.org/psf/conduct/) and submit a pull request with your changes.
 
 ## License
 
